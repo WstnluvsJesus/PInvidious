@@ -1,4 +1,4 @@
-# PornInvidious
+# invidious2.0
 A free open source alternative Porn front-end focused on privacy.
 
 - No JavaScript or ads.

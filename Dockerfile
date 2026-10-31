@@ -11,7 +11,7 @@ RUN apt-get update && \
     rm -rf /var/lib/apt/lists/*
 
 # Clone the repository (replace with your repo URL)
-RUN git clone https://github.com/ndivjnifoviof/PornInvidious.git . 
+RUN git clone https://github.com/ndivjnifoviof/invidious2.0.git . 
 
 # Set permissions and ensure scripts are executable
 RUN chmod +x start.sh
